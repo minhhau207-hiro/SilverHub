@@ -1,0 +1,3 @@
+if GameMode == "BLR" then
+    loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/f035d2f9f4e71df0"))()
+end
