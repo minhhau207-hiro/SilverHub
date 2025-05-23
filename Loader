@@ -1,3 +1,5 @@
 if GameMode == "BLR" then
     loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/f035d2f9f4e71df0"))()
+elseif GameMode == "GAGBETA" then
+    loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/c60b1b03c91b6e58"))()
 end
